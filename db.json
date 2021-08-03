@@ -1,0 +1,114 @@
+{
+  "licenses": [
+    {
+      "id": "BK343434",
+      "status": "Not Registered - Red",
+      "colour": "red",
+      "trained": "No"
+    },
+    {
+      "id": "DS394251",
+      "status": "Registered - Green",
+      "colour": "green",
+      "trained": "Yes"
+    },
+    {
+      "id": "BK565656",
+      "status": "Registered - Red",
+      "colour": "red",
+      "trained": "In Training"
+    },
+    {
+      "id": "AM999481",
+      "status": "Registered - Green",
+      "colour": "green",
+      "trained": "Yes"
+    },
+    {
+      "id": "AN118732",
+      "status": "Registered - Green",
+      "colour": "green",
+      "trained": "Yes"
+    },
+    {
+      "id": "AN245442",
+      "status": "Registered - Green",
+      "colour": "green",
+      "trained": "Yes"
+    }
+  ],
+  "crates": [
+    {
+      "id": "12345",
+      "status": "Certified - Green",
+      "colour": "green",
+      "inspected_date": "2 January 2016",
+      "manufacturer": "Crate Manufacturing Company.",
+      "nzlta_supplier_id": "1418",
+      "nzlta_site_check_date": "17 December 2020",
+      "operator": "Becker's Transport",
+      "operator_status": "Becker's Transport - Green",
+      "operator_colour": "green"
+    },
+    {
+      "id": "12346",
+      "status": "Certified - Red",
+      "colour": "red",
+      "inspected_date": "3 January 2016",
+      "manufacturer": "Big Crate Manufacturing Co.",
+      "nzlta_supplier_id": "1418",
+      "nzlta_site_check_date": "17 December 2020",
+      "operator": "Serenity Cow Movers Ltd.",
+      "operator_status": "Serenity Cow Movers Ltd. - Red",
+      "operator_colour": "red"
+    },
+    {
+      "id": "AQ3887",
+      "status": "Certified - Green",
+      "colour": "green",
+      "inspected_date": "15 July 2021",
+      "manufacturer": "2459",
+      "nzlta_supplier_id": "1418",
+      "nzlta_site_check_date": "17 December 2020",
+      "operator": "Neven Granich Ltd",
+      "operator_status": "Neven Granich Ltd - Red",
+      "operator_colour": "red"
+    },
+    {
+      "id": "AQ3888",
+      "status": "Certified - Green",
+      "colour": "green",
+      "inspected_date": "15 July 2021",
+      "manufacturer": "2497",
+      "nzlta_supplier_id": "1418",
+      "nzlta_site_check_date": " ",
+      "operator": "Neven Granich Ltd",
+      "operator_status": "Neven Granich Ltd - Red",
+      "operator_colour": "red"
+    },
+    {
+      "id": "AQ3889",
+      "status": "Certified - Green",
+      "colour": "green",
+      "inspected_date": "15 July 2021",
+      "manufacturer": "A200",
+      "nzlta_supplier_id": "1418",
+      "nzlta_site_check_date": "27 May 2020",
+      "operator": "Neven Granich Ltd",
+      "operator_status": "Neven Granich Ltd - Red",
+      "operator_colour": "red"
+    },
+    {
+      "id": "AQ3890",
+      "status": "Certified - Green",
+      "colour": "green",
+      "inspected_date": "9 July 2021",
+      "manufacturer": "731",
+      "nzlta_supplier_id": "1427",
+      "nzlta_site_check_date": " ",
+      "operator": "Edwards Rural Transport Ltd",
+      "operator_status": "Edwards Rural Transport Ltd - Green",
+      "operator_colour": "green"
+    }
+  ]
+}
